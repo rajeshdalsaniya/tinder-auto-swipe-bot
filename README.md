@@ -3,7 +3,9 @@ interactions with Swipe, Like and Dislike on Tinder implemented in Python.
 
 ### Installation
 
-`pip3 install -r requirements.txt`
+```elm
+pip3 install -r requirements.txt
+```
 
 **Important**: depending on your system, make sure to use `pip3` and `python3` instead.
 
@@ -20,7 +22,9 @@ To run TinderAutoSwipeBot, you'll need to run the script you've just downloaded.
 
 Once you have your downloaded this repo you can execute the script with the following commands.
 
-`python tinder_bot.py`
+```elm
+python tinder_bot.py
+```
 
 Follow the instruction steps printed on terminal.
 
