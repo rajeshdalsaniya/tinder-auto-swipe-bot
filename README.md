@@ -31,7 +31,7 @@ Follow the instruction steps printed on terminal.
 TinderAutoSwipeBot will now open a browser window and start working.
 
 
-Do you want to support me?
+**Do you want to support me?**
 
 If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
 
