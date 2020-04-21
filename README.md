@@ -17,7 +17,10 @@ Failure to observe this step will give you an error selenium.common.exceptions.W
 
 💻 **On Mac** you can install gekkodriver by running brew command - `brew install geckodriver`
 
+---
+
 **Running TinderAutoSwipeBot**
+
 To run TinderAutoSwipeBot, you'll need to run the script you've just downloaded.
 
 Once you have your downloaded this repo you can execute the script with the following commands.
@@ -26,7 +29,7 @@ Once you have your downloaded this repo you can execute the script with the foll
 python tinder_bot.py
 ```
 
-Follow the instruction steps printed on terminal.
+=> Follow the instruction steps printed on terminal.
 
 TinderAutoSwipeBot will now open a browser window and start working.
 
